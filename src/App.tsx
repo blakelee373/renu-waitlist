@@ -24,7 +24,7 @@ export default function App() {
         <img
           src="/images/renu-logo.png"
           alt="RENU"
-          className="h-10 mb-12 opacity-90"
+          className="h-20 mb-12 opacity-90"
         />
 
         {/* Form or Success */}
