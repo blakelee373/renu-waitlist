@@ -91,7 +91,7 @@ export function WaitlistForm({ onSuccess }: WaitlistFormProps) {
           ? "The smarter way to find aesthetic & wellness care."
           : "Get discovered by clients who are ready to book."}
       </h1>
-      <p className="text-brand-muted text-center mb-10 text-base leading-relaxed max-w-sm mx-auto">
+      <p className="text-brand-muted text-center mb-10 text-base leading-relaxed max-w-md mx-auto">
         {userType === "client"
           ? "Compare prices, services, and providers across clinics near you \u2014 so you always know you're getting the best value. RENU is launching soon."
           : "RENU helps aesthetic clinics and wellness brands showcase their services, pricing, and providers to a comparison-savvy audience. Join early to claim your spot."}
